@@ -2,7 +2,7 @@
     "NPC-Short": {
         "scope": "markdown",
         "prefix": ["npcshort"],
-        "body": ["- **${1:name}** (${2:sex} ${3:race}): ${4:note}"],
+        "body": "- [${1:name}](./${2:TODO.md}) (${3:sex} ${4:race}): ${5:note}",
         "description": "Short description of an NPC"
     }
 }
